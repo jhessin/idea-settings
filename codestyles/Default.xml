@@ -4,11 +4,11 @@
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="SOFT_MARGINS" value="80,120" />
   <RsCodeStyleSettings>
+    <option name="ALIGN_WHERE_CLAUSE" value="true" />
     <option name="ALIGN_TYPE_PARAMS" value="true" />
-    <option name="ALLOW_ONE_LINE_MATCH" value="true" />
-    <option name="PRESERVE_PUNCTUATION" value="true" />
   </RsCodeStyleSettings>
   <codeStyleSettings language="Rust">
     <option name="RIGHT_MARGIN" value="80" />
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
   </codeStyleSettings>
 </code_scheme>
