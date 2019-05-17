@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Rust Plugin" displayType="NONE" />
+  </component>
+</application>
